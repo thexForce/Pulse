@@ -10,7 +10,6 @@ To arm researchers with freely accessible, open-source tools – our 'Pulse' ars
 PULSE is more than  a software it's a movement to democratize advanced cardiovascular research and care
 
 - **Developers**: Contribute to our codebase
-- **Healthcare Professionals**: Provide clinical insights and testing
 - **Researchers**: Help validate and improve our system
 - **Advocates**: Spread awareness about our mission
 
