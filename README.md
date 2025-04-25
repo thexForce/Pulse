@@ -4,7 +4,10 @@
 ![pulse](/BLogo.png)
 ## Our Mission
 
-To arm researchers with freely accessible, open-source tools – our 'Pulse' arsenal – to aggressively target and overcome cardiovascular diseases, fighting for healthier lives across the region.
+To arm researchers with freely accessible, open-source tools – our 'Pulse' arsenal – to aggressively target and overcome cardiovascular diseases, fighting for healthier lives across the globe.
+
+> with initially  focus on South East Asia as 
+> CVDs are a major cause of mortality in South-East Asia, contributing to nearly a third of all deaths in the region
 
 ## Join the Mission 
 PULSE is more than  a software it's a movement to democratize advanced cardiovascular research and care
