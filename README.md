@@ -1,7 +1,7 @@
 # PULSE
 ###  An Open Source Initiative in Combating CVD's
 
-
+![pulse](/BLogo.png)
 ## Our Mission
 
 To arm researchers with freely accessible, open-source tools – our 'Pulse' arsenal – to aggressively target and overcome cardiovascular diseases, fighting for healthier lives across the region.
