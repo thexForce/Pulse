@@ -1,6 +1,6 @@
-# Pulse
+# PULSE
 
-##  An Open Source Initiative in Combating CVD's
+###  An Open Source Initiative in Combating CVD's
 
 
 ## Our Mission
@@ -8,7 +8,7 @@
 To arm researchers with freely accessible, open-source tools – our 'Pulse' arsenal – to aggressively target and overcome cardiovascular diseases, fighting for healthier lives across the region.
 
 ## Join the Mission 
-CombatCVD is more than  a software it's a movement to democratize advanced cardiovascular research and care
+PULSE is more than  a software it's a movement to democratize advanced cardiovascular research and care
 
 - **Developers**: Contribute to our codebase
 - **Healthcare Professionals**: Provide clinical insights and testing
@@ -19,9 +19,9 @@ CombatCVD is more than  a software it's a movement to democratize advanced cardi
 - coming soon
 ## License
 
-CombatCVD is proudly open-source under the [MIT License](LICENSE.md).
+PULSE is proudly open-source under the [MIT License](LICENSE.md).
 
----
+## ________________________________________________________________________________________
 
 <p align="center">
 <strong>Because heart disease doesn't fight fair. Neither should we.</strong>
